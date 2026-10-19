@@ -10,18 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49d9871a-f054-4bd9-b724-4b3646bb4bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pilas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interffaces/ed/ito/Pila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/ed/ito/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/ed/ito/PilaDinamica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/ed/ito/PilaEstatica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excepciones/ed/ito/ExceptionDeDesbordamientoDePila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excepciones/ed/ito/ExceptionDePilaVacia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
